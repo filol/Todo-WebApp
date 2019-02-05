@@ -1,5 +1,7 @@
 # todo-app
 
+![Screenshot](Screenshot.JPG)
+
 ## Project setup
 ```
 npm install
